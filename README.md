@@ -26,6 +26,9 @@ Till today, there are **7 certifications** available for Google Cloud which are 
 - [Google Cloud - Professional Cloud Security Engineer](#Google-Cloud-\--Professional-Cloud-Security-Engineer)
 - [Google Cloud - GSuite](#Google-Cloud-\--GSuite)
 
+# Path to Success
+![alt text](/images/gcp-certs.png "Google Cloud Certification")
+
 A complete overview can also be found [here](https://cloud.google.com/certification/).
 
 ___
