@@ -15,16 +15,19 @@ Contains guides, blog posts, self-assessment quizzes, tutorials and more.
 [Please refer to the contributing guide for details](contributing.md).
 
 # Content
-Till today, there are **7 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
+Currently, there are **7 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
-- [General References](#General-References)
-- [Google Cloud - Associate Cloud Engineer](#Google-Cloud-\--Associate-Cloud-Engineer)
-- [Google Cloud - Professional Cloud Architect](#Google-Cloud-\--Professional-Cloud-Architect)
-- [Google Cloud - Professional Data Engineer](#Google-Cloud-\--Professional-Data-Engineer)
-- [Google Cloud - Professional Cloud Developer](#Google-Cloud-\--Professional-Cloud-Developer)
-- [Google Cloud - Professional Cloud Network Engineer](#Google-Cloud-\--Professional-Cloud-Network-Engineer)
-- [Google Cloud - Professional Cloud Security Engineer](#Google-Cloud-\--Professional-Cloud-Security-Engineer)
-- [Google Cloud - GSuite](#Google-Cloud-\--GSuite)
+ [General References](#General-References)
+
+|Certificate | Description|
+| --- | --- |
+| [Google Cloud - Associate Cloud Engineer](#Google-Cloud-\--Associate-Cloud-Engineer) | A good starting point for those new to cloud or GCP|
+| [Google Cloud - Professional Cloud Architect](#Google-Cloud-\--Professional-Cloud-Architect) | Design, build and manage solutions on GCP |
+| [Google Cloud - Professional Data Engineer](#Google-Cloud-\--Professional-Data-Engineer) | Design and build data processing systems and create machine learning models on GCP |
+| [Google Cloud - Professional Cloud Developer](#Google-Cloud-\--Professional-Cloud-Developer) | Build and deploy scalable and highly available applications on GCP |
+| [Google Cloud - Professional Cloud Network Engineer](#Google-Cloud-\--Professional-Cloud-Network-Engineer) | Manage network architectures in GCP |
+| [Google Cloud - Professional Cloud Security Engineer](#Google-Cloud-\--Professional-Cloud-Security-Engineer) | Configure and manage a secure infrastructure leveraging GCP |
+| [Google Cloud - GSuite](#Google-Cloud-\--GSuite) | Demonstrate colloboration skills using cloud based tools to create and share documents, spreadsheets, presentation, and files. |
 
 # Path to Success
 ![alt text](/images/gcp-certs.png "Google Cloud Certification")
